@@ -1,0 +1,28 @@
+{
+  "name": "koa-args",
+  "version": "1.0.0",
+  "description": "Koa2 args middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apyr/koa-args.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "args",
+    "arguments"
+  ],
+  "author": {
+	"name": "Kakotkin Alexei"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apyr/koa-args/issues"
+  },
+  "homepage": "https://github.com/Apyr/koa-args#readme"
+}
+
