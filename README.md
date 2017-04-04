@@ -3,7 +3,7 @@ Koa2 args middleware.
 Lazy combines ctx.query, ctx.request.body, ctx.params into one object ctx.args.
 Depends on Object.assign.
 
-## Instalation
+## Installation
 ```
 npm install --save koa-args
 ```
